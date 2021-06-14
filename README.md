@@ -52,4 +52,7 @@ I mean, I'm open to anything but I have my eyes on these:
 
 ## I hope to hear back from you!
 
-I really look forward to learn and get to understand more about how the IT world works. If you liked what you see/read, please contact me through my [Terminilio](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+I really look forward to learn and get to understand more about how the IT world works. If you liked what you see/read, please contact me through my [UNDER CONSTRUCTION]
+
+// I really look forward to learn and get to understand more about how the IT world works. If you liked what you see/read, please contact me through my 
+
