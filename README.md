@@ -57,7 +57,8 @@ I'm very versatile and can work under different environments. Here's a list of t
 I mean, I'm open to anything but I have my eyes on these:
 
 * C#
-* Swift
+* Java
+* Go
 * Brainfuck
 
 
